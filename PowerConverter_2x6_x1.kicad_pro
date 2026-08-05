@@ -506,6 +506,8 @@
       "GND": "rgb(156, 135, 255)",
       "VCC": "rgb(255, 0, 58)",
       "VDC": "rgb(255, 0, 58)",
+      "VIN": "rgb(0, 132, 0)",
+      "VOUT": "rgb(204, 102, 0)",
       "unconnected-(J1-Pin_3-Pad3)": "rgb(0, 132, 0)"
     },
     "netclass_assignments": null,
