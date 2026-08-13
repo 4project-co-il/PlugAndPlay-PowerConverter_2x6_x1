@@ -1892,6 +1892,7 @@
 		(path "/e49933fa-9f78-495e-b352-b10c346a7db4")
 		(sheetname "/")
 		(sheetfile "PowerConverter_2x6_x1.kicad_sch")
+		(solder_paste_margin_ratio 0.05)
 		(attr smd)
 		(fp_line
 			(start 1.33 5.84)
@@ -2466,6 +2467,7 @@
 		(path "/4055ea20-e0f9-443b-8e4f-91ee8e2fcb9a")
 		(sheetname "/")
 		(sheetfile "PowerConverter_2x6_x1.kicad_sch")
+		(solder_paste_margin_ratio 0.05)
 		(attr smd)
 		(fp_line
 			(start 1.33 3.3)
@@ -3123,6 +3125,7 @@
 		(path "/fbc38c43-eb78-480d-9cd0-ebb98f6f6afe")
 		(sheetname "/")
 		(sheetfile "PowerConverter_2x6_x1.kicad_sch")
+		(solder_paste_margin_ratio 0.05)
 		(attr smd)
 		(fp_line
 			(start 2.6 7.11)
@@ -4558,6 +4561,7 @@
 		(path "/396f19d5-9fdb-4efc-b53e-98d845d89166")
 		(sheetname "/")
 		(sheetfile "PowerConverter_2x6_x1.kicad_sch")
+		(solder_paste_margin_ratio 0.05)
 		(attr smd)
 		(fp_line
 			(start 1.33 5.84)
@@ -5132,6 +5136,7 @@
 		(path "/8bedd5cb-ff55-48fb-8ac6-866848f1a3ed")
 		(sheetname "/")
 		(sheetfile "PowerConverter_2x6_x1.kicad_sch")
+		(solder_paste_margin_ratio 0.05)
 		(attr smd)
 		(fp_line
 			(start 1.33 3.3)
